@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "talhao": "A1",
+    "metodo": "manual",
+    "area": 10.0,
+    "estimada": 200.0,
+    "colhida": 150.0,
+    "preco": 1500.0
+  },
+  {
+    "id": 2,
+    "talhao": "B2",
+    "metodo": "mecanica",
+    "area": 8.0,
+    "estimada": 300.0,
+    "colhida": 200.0,
+    "preco": 1450.0
+  },
+  {
+    "id": 3,
+    "talhao": "C3",
+    "metodo": "manual",
+    "area": 5.0,
+    "estimada": 100.0,
+    "colhida": 97.0,
+    "preco": 1500.0
+  },
+  {
+    "id": 4,
+    "talhao": "asd",
+    "metodo": "manual",
+    "area": 44.0,
+    "estimada": 33.0,
+    "colhida": 22.0,
+    "preco": 55.0
+  }
+]
